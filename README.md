@@ -7,9 +7,9 @@ This a cross-platform desktop app built with [tkinter] which simply acts like a 
 To get started with this app, you might have to clone or download the repository first;
 
 ```bash
-git clone https://github.com/Kalebu/Desktop-chatbot-app
-cd Desktop-chatbot-app
-Desktop-chatbot-app->
+git clone https://kingstar1014/chatBOT
+cd chatBot-gpt
+chatBot-gpt->
 ```
 
 ## Dependencies
@@ -25,7 +25,7 @@ sudo apt-get install python3-tk
 Now once installed launch it by running as you would run a normal python script and the gui for chatbot will pop up;
 
 ```bash
-python app.py
+python main.py
 ```
 
 ### launched interface
